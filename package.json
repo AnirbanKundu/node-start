@@ -1,0 +1,26 @@
+{
+  "name": "hello-nodejs",
+  "version": "0.1.2",
+  "description": "hello-nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.8.5",
+    "socket.io": "1.0.6"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "chat"
+  ],
+  "license": "MIT"
+}
